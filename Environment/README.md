@@ -1,4 +1,4 @@
-## 5. Catastrophic disasters in Africa - *(Environment)* ##
+## 6. Catastrophic disasters in Africa - *(Environment)* ##
 Natural disasters such as drought and flooding often make survival difficult for people living in central Africa and near the equator. These communities are often forced to undergo rehabilitation. Using AI and studying past records of casualties and assistance provided during these disasters can help gain a deeper understanding of the situation. By analyzing this data, it is possible to develop solutions to minimize the risk and damage caused by these types of disasters in the future.
 
 ### Datasets for reference: ###
@@ -13,7 +13,7 @@ The International Disaster Database (EM-DAT) is a database on disasters, includi
 <hr>
 <br>
 
-## 6. Renewable Energy Access - *(Environment)* ##
+## 7. Renewable Energy Access - *(Environment)* ##
 In Nigeria, more than 100 million people lack reliable access to power. Many localities aren't even partially connected to the national electrical grid. The  majority of them employ costly, unreliable, noisy, and hazardous fossil fuels, which have a negative impact on the environment. The challenge partner RA 365, a recently founded Nigerian NGO, is on a mission to use AI to give funders and policymakers the resources they need to create a better future for these communities. Understand the data generation, source and usage of the area to come up with an effective solution.
 
 
