@@ -5,10 +5,13 @@
 # Problem Statements
 There are total 10 problem statements for you to explore and devise and present a solution on in a 48 hour development period. The problem statements are around the following domains - 
 
-<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Food%20Management">1. Food Management</a><br>
-<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Geopolitics">2. Geopolitics</a><br>
-<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/BioTech">3. BioTech</a><br>
+<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/BioTech">1. BioTech</a><br>
+<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Blue%20Economy">2. Blue Economy</a><br>
+<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Education">3. Education</a><br>
 <a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Environment">4. Environment</a><br>
-<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Education">5. Education</a><br>
-<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Fintech">6. FinTech</a><br>
-<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Blue%20Economy">7. Blue Economy</a><br>
+<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Fintech">5. FinTech</a><br>
+<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Food%20Management">6. Food Management</a><br>
+<a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Geopolitics">7. Geopolitics</a><br>
+
+If you haven't registered yet do it at the earliest <a href="https://hackoverflow2.devfolio.co/">here</a>
+Deadline to register
