@@ -13,5 +13,5 @@ There are total 10 problem statements for you to explore and devise and present 
 <a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Food%20Management">6. Food Management</a><br>
 <a href="https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Geopolitics">7. Geopolitics</a><br>
 
-If you haven't registered yet do it at the earliest <a href="https://hackoverflow2.devfolio.co/">here</a>
-Deadline to register
+If you haven't registered yet do it at the earliest <a href="https://hackoverflow2.devfolio.co/">here</a><br>
+### Deadline to register: 27th January, 2023 ###
