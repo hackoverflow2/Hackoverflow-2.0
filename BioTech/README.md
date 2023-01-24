@@ -1,4 +1,4 @@
-## 3. Malaria Control using AI - *(BioTech)* ##
+## 1. Malaria Control using AI - *(BioTech)* ##
 Malaria is a mosquito-borne disease, claiming over 400,000 lives each year, mainly children under 5. By targeting the water bodies where mosquitoes lay eggs, the disease can be controlled or even eliminated completely. Explore more datasets to understand the problem well and come up with a solution to curb this in a sustainable manner.
 
 ### Datasets for reference: ###
@@ -13,7 +13,7 @@ The Malaria Atlas Project (MAP) provides a dataset on malaria risk, including in
 <hr>
 <br>
 
-## 4.Crop Guidance and Farmers Friend - *(BioTech)* ##
+## 2.Crop Guidance and Farmers Friend - *(BioTech)* ##
 The needs of contemporary agriculture, which demands high-yield, high-quality, and efficient production, cannot be met by conventional agricultural practices. Furthermore, farmers face the main challenge of how to adapt to changing customer preferences. It is critical to modernize existing processes and use data acquired over time to determine the best potential farming practices that should be implemented. Develop a solution that uses the potential of AI to address this problem.
 
 ### Datasets for reference: ###
