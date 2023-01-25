@@ -6,7 +6,7 @@ Natural disasters such as drought and flooding often make survival difficult for
 Dataset  | Link
 ---------- | ----------
 The African Centre for Meteorological Applications for Development (ACMAD) provides a wide range of data on weather and climate, including information on extreme events such as droughts and floods.  | http://www.acmad.org/
-The United Nations Office for Disaster Risk Reduction (UNDRR) maintains a global disaster database that includes information on the impact of natural disasters worldwide, including in Africa.  | https://www.unisdr.org/we/inform/data
+The United Nations Office for Disaster Risk Reduction (UNDRR) maintains a global disaster database that includes information on the impact of natural disasters worldwide, including in Africa.  | https://www.undrr.org/ 
 The International Disaster Database (EM-DAT) is a database on disasters, including Africa, maintained by the Centre for Research on the Epidemiology of Disasters (CRED), which contains information on the impact of natural disasters worldwide. | https://www.emdat.be/
 
 <br>
@@ -23,4 +23,4 @@ Dataset  | Link
 ---------- | ----------
 The Nigerian Bureau of Statistics provides data on energy consumption, generation, and distribution in Nigeria. This data can be used to understand the current state of power access in Nigeria and identify opportunities for improvement.  | https://www.nigerianstat.gov.ng/
 The World Bank provides a dataset on energy access in Nigeria, which includes information on electricity generation, transmission, and distribution. This data can be used to understand the factors that contribute to power access in Nigeria and identify opportunities for improvement.  | https://data.worldbank.org/topic/energy-access
-The Nigeria National Renewable Energy and Energy Efficiency Policy provides a dataset on renewable energy in Nigeria, which includes information on renewable energy generation, transmission, and distribution. This data can be used to understand the potential of renewable energy in Nigeria and identify opportunities for improvement. | https://www.energy.gov.ng/renewable-energy/
+The Nigeria National Renewable Energy and Energy Efficiency Policy provides a dataset on renewable energy in Nigeria, which includes information on renewable energy generation, transmission, and distribution. This data can be used to understand the potential of renewable energy in Nigeria and identify opportunities for improvement. | https://www.enerdata.net/estore/energy-market/nigeria 
